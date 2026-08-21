@@ -1,1 +1,9 @@
+## Correlation Analysis: Natural Ventilation and User Comfort
 
+| Variable Pair | Pearson's r | df | p-value | Interpretation |
+|---|---:|---:|---:|---|
+| Natural Ventilation ↔ User Comfort | -0.013 | 382 | 0.792 | Not significant |
+
+**Interpretation:** There was a negligible negative correlation between
+natural ventilation and user comfort (*r* = -0.013, *p* = 0.792, *n* = 384).
+The relationship was not statistically significant at the 0.05 level.
